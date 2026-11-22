@@ -1,0 +1,1 @@
+Leer lassen. Nur im Ernstfall: <datei>.signed.bin + latest.json.
